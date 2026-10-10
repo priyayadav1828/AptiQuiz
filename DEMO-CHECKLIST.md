@@ -1,0 +1,12 @@
+# Demo checklist
+- [ ] Run `npm install` and `npm run dev`
+- [ ] Confirm `/api/health` reports `ok: true`
+- [ ] Create room and copy the code
+- [ ] Join from a second browser/device using a unique name
+- [ ] Start quiz from host window
+- [ ] Answer from player window
+- [ ] Verify score and leaderboard update
+- [ ] Wait for timer or answer on all players; verify review state
+- [ ] Advance to next question; verify final leaderboard at end
+- [ ] Test refresh/reconnect behavior and explain in-memory limitation
+- [ ] Confirm event rules allow use of any prewritten code before using this starter in the competition
